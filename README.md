@@ -6,5 +6,3 @@ I'm Amine TALEMCI
 - Current projects :
   - https://github.com/lectra-tech/karate-connect
   - https://github.com/lectra-tech/kapoeira
-                    
-
